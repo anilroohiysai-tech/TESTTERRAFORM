@@ -1,0 +1,10 @@
+aws_region     = "ap-south-1"
+aws_developers = "Developers"
+aws_uat        = "UAT"
+aws_prod       = "Production"
+aws_developers_policy = "arn:aws:iam::aws:policy/AdministratorAccess"
+aws_uat_policy = "arn:aws:iam::aws:policy/ReadOnlyAccess"
+aws_prod_policy = "arn:aws:iam::aws:policy/PowerUserAccess"
+aws_dvelopers_users = "devop1"
+aws_developers_tag = "dev"
+aws_aws_dvelopers_grp = [ "Developers" ]
